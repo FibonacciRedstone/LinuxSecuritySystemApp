@@ -45,6 +45,7 @@
 		4177A33B42FFFBA21091DEBC /* Pods-Security AccessUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Security AccessUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Security AccessUITests/Pods-Security AccessUITests.release.xcconfig"; sourceTree = "<group>"; };
 		422566D1AE7D8D6FD9CEBC5D /* Pods-Security Access.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Security Access.release.xcconfig"; path = "Pods/Target Support Files/Pods-Security Access/Pods-Security Access.release.xcconfig"; sourceTree = "<group>"; };
 		4F6A6D041EF02B1D00BC5740 /* SystemControlsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemControlsViewController.swift; sourceTree = "<group>"; };
+		4F6A6D071EF0AF4300BC5740 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A34B15A248F8DB286F7AA0EA /* Pods-Security AccessUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Security AccessUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Security AccessUITests/Pods-Security AccessUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		BF1CF296E03DDB22A8B4DE21 /* Pods_Security_Access.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Security_Access.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5F6AF06064BD5736CF82DD7 /* Pods-Security Access.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Security Access.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Security Access/Pods-Security Access.debug.xcconfig"; sourceTree = "<group>"; };
@@ -120,6 +121,7 @@
 		EBB206E61EE9A6830054DEC1 = {
 			isa = PBXGroup;
 			children = (
+				4F6A6D071EF0AF4300BC5740 /* README.md */,
 				EBB206F11EE9A6830054DEC1 /* Security Access */,
 				EBB207061EE9A6830054DEC1 /* Security AccessTests */,
 				EBB207111EE9A6830054DEC1 /* Security AccessUITests */,
